@@ -11,3 +11,5 @@ package-deb/miniflux/miniflux: miniflux/miniflux-linux-amd64
 
 miniflux/miniflux-linux-amd64:
 	$(MAKE) -C miniflux linux-amd64
+
+.PHONY: miniflux/miniflux-linux-amd64
