@@ -1,0 +1,6 @@
+[submodule "package-deb"]
+	path = package-deb
+	url = https://github.com/miniflux/package-deb
+[submodule "miniflux"]
+	path = miniflux
+	url = https://github.com/mindriot101/miniflux
